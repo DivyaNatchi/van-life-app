@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DivyaNatchi/van-life-app/static/css/main.14c5f134.css",
+    "main.js": "/DivyaNatchi/van-life-app/static/js/main.db35128d.js",
+    "static/js/453.2dddaa82.chunk.js": "/DivyaNatchi/van-life-app/static/js/453.2dddaa82.chunk.js",
+    "static/media/home.png": "/DivyaNatchi/van-life-app/static/media/home.b9519720b1013870062a.png",
+    "static/media/about.png": "/DivyaNatchi/van-life-app/static/media/about.405892ab2007e5993ffa.png",
+    "index.html": "/DivyaNatchi/van-life-app/index.html",
+    "main.14c5f134.css.map": "/DivyaNatchi/van-life-app/static/css/main.14c5f134.css.map",
+    "main.db35128d.js.map": "/DivyaNatchi/van-life-app/static/js/main.db35128d.js.map",
+    "453.2dddaa82.chunk.js.map": "/DivyaNatchi/van-life-app/static/js/453.2dddaa82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c5f134.css",
+    "static/js/main.db35128d.js"
+  ]
+}
